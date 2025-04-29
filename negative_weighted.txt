@@ -50,10 +50,6 @@ tidak kompatibel,2
 tidak cocok,2
 tidak efisien,2
 jelek,3
-# Lexicon Negatif dengan Bobot
-
-## Format: kata,bobot
-
 abai,2
 absurd,2
 acak-acakan,2
